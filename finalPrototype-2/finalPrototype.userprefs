@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChangeScale.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UnityOSCReceiver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UnityOSCListener.cs" Line="10" Column="15" />
+      <File FileName="Assets/Scripts/ChangeLightIntensity.cs" Line="15" Column="31" />
+      <File FileName="Assets/Scripts/GenerateDemons.cs" Line="49" Column="48" />
+      <File FileName="Assets/Scripts/ChangeScale.cs" Line="28" Column="29" />
+      <File FileName="../../../../../Downloads/RaycastPug.cs" Line="20" Column="1" />
+      <File FileName="../tenPrintHw/Assets/Scripts/TenPrint.cs" Line="30" Column="11" />
+      <File FileName="../../buildingworlds_fall2014/week09/Assets/scripts/GardenerPlantTime.cs" Line="6" Column="1" />
+      <File FileName="../midtermHW-submitted/Assets/Scripts/Demon.cs" Line="25" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
