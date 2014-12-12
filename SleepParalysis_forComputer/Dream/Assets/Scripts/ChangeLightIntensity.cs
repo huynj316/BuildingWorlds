@@ -8,7 +8,7 @@ public class ChangeLightIntensity : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		light.intensity = 0.5f;
-		amplitude = 0.2f;
+		spotIncrease = 30f;
 
 		
 	}
