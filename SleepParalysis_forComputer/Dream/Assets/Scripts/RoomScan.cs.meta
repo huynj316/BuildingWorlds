@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 23bd6a7ed5a0744c6a6115d4b0dbdb53
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - putItHere: {fileID: 100106, guid: a7c62f22f4031a64880e37cf282bc1fb, type: 2}
+  - putItHeadHere: {instanceID: 0}
+  - invisible: {fileID: 2100000, guid: c3980053ba40949cb908466c2fa7f4b7, type: 2}
+  - stone: {fileID: 2100000, guid: 9d7d52d8fcc0b442ab7ff58103596c9f, type: 2}
+  - demon_call: {fileID: 8300000, guid: 90edc9de782904b159756369d8283c1e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

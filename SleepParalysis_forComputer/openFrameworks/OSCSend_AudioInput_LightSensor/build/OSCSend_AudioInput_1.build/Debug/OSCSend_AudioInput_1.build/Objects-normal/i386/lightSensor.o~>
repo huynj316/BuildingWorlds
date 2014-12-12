@@ -1,0 +1,38 @@
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:11: error: 'io_connect_t' does not name a type
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:12: error: 'kern_return_t' does not name a type
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:14: error: 'lightSensor' has not been declared
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp: In function 'void setup()':
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:15: error: 'serviceObject' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:15: error: 'kIOMasterPortDefault' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:15: error: 'IOServiceMatching' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:15: error: 'IOServiceGetMatchingService' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:17: error: 'stderr' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:17: error: 'fprintf' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:20: error: 'kr' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:20: error: 'mach_task_self' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:20: error: 'dataPort' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:20: error: 'IOServiceOpen' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:21: error: 'IOObjectRelease' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:22: error: 'KERN_SUCCESS' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:23: error: 'mach_error' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:26: error: 'stdout' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:26: error: 'NULL' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:26: error: 'setbuf' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:27: error: 'printf' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp: At global scope:
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:31: error: 'lightSensor' has not been declared
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp: In function 'void update()':
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:32: error: 'kern_return_t' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:32: error: expected `;' before 'kr'
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:33: error: 'uint32_t' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:33: error: expected `;' before 'outputs'
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:34: error: 'uint64_t' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:34: error: expected `;' before 'values'
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:36: error: 'kr' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:36: error: 'dataPort' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:36: error: 'nil' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:36: error: 'values' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:36: error: 'outputs' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:36: error: 'IOConnectCallMethod' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:37: error: 'KERN_SUCCESS' was not declared in this scope
+/Applications/of_v0.8.0_osx_release/apps/buildingWorlds/OSCSend_AudioInput_LightSensor/src/lightSensor.cpp:38: error: 'ambientLight' was not declared in this scope
